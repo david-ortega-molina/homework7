@@ -9,4 +9,4 @@ def leapyr(num):
         return(num, "is not a leap year")
 
 
-print(leapyr(2020))
+pass
